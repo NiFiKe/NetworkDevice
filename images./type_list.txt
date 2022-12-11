@@ -1,0 +1,9 @@
+DT Speedport W724 V Type CY -> dtw724Tcyfront.jpg -> dtw724Tcyback.jpg -> https://www.telekom.hu/static-la/sw/file/digitalis_eloszto_speedportw724_hasznalati_utmutato.pdf
+
+UPC ConnectBox -> upcconnboxfront.jpg -> upcconnboxback.jpg ->https://www.upc.ch/dam/www-upc-ch/business/pdf/Support1/b2b-ConnectBox_Manual_EN.PDF
+
+SPEEDPORT ENTRY 2i -> speedportentry2ifront.jpg -> speedportentry2iback.jpg -> https://www.telekom.hu/static-la/sw/file/speedport_entry_2i_hasznalati_utmutato.pdf
+
+SAGEMCOM F@ST 3686 ->  sagemcomfast8636front.jpg ->sagemcomfast8636back.jpg -> https://www.telekom.hu/static-la/sw/file/sagemcom-f3686ac-v2-user-guide.pdf
+
+CISCO EPC 3925 -> ciscomdpc3925front.jpg -> ciscomdpc3925back.jpg -> https://www.telekom.hu/static-la/sw/file/internet_modem_cisco_dpc3925_es_epc3925_hasznalati_utmutato.pdf
