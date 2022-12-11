@@ -26,3 +26,5 @@ A weboldal fájljainak leírása
     olyankor is megvannak. Persze lehetne kettós linekelés is.
   
   - mysql_omega.sql  ---  a szükséges mysql adatbázis léterhozásához szükséges utasításokat tartalmazza.
+
+
