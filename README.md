@@ -24,3 +24,5 @@ A weboldal fájljainak leírása
   - images mappa  ---  a mejelenítendő eszközök képeit tartalmazó mappa
   - user_manuals  ---  az eszközökhöz tartozó felhasználói kézikönyveket tartalmazza. Ez lehetne online is, de mivel lehetséges, hogy a programot offline használják így
     olyankor is megvannak. Persze lehetne kettós linekelés is.
+  
+  - mysql_omega.sql  ---  a szükséges mysql adatbázis léterhozásához szükséges utasításokat tartalmazza.
